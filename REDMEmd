@@ -1,0 +1,42 @@
+# Personal Portfolio Website
+
+This is my personal portfolio website built with HTML and Tailwind CSS as part of the Tailwind CSS Bootcamp project.
+
+## Features
+
+- Fully responsive design (mobile, tablet, desktop)
+- Four main sections: Home, About, Projects, and Contact
+- Animated typing effect in the hero section
+- Hover effects on project cards
+- Mobile-friendly navigation
+- Clean, modern design using Tailwind's utility classes
+
+## Technologies Used
+
+- HTML5
+- Tailwind CSS
+- Font Awesome icons
+- Vanilla JavaScript for simple interactions
+
+## Project Structure
+
+- `index.html`: Main HTML file with all content
+- `images/`: Folder containing avatar and project images
+- `README.md`: This documentation file
+
+## How to Use
+
+1. Clone or download the repository
+2. Open `index.html` in any modern web browser
+3. Navigate through the different sections using the menu
+
+## Experience
+
+Building this portfolio with Tailwind CSS was a great learning experience. I particularly enjoyed:
+
+- The utility-first approach that made styling intuitive
+- The responsive design capabilities with minimal code
+- The ability to create complex layouts without writing custom CSS
+- The hover and transition effects that add polish to the UI
+
+The most challenging part was implementing the typing animation using only Tailwind, but the config extension made it possible.
